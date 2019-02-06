@@ -1,0 +1,9 @@
+{
+ "packageRules": [
+    {
+      "managers": ["pip"],
+      "packageNames": ["django"],
+      "allowedVersions": "<2"
+    }
+  ]
+}
